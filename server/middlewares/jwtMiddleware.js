@@ -7,9 +7,13 @@ exports.verifyJWT = (req, res, next) => {
 	if (token) {
 		// if the token collected from auth header then do this
 		if (token.includes("Bearer")) {
+			console.log("JWT Middleware hit")
+			console.log("Token:", req.headers.authorization);
 			const onlyToken = token.slice(7, token.length);
 			// verifying the token and bind the result with request
 			req.decoded = jwtController.verifyToken(onlyToken);
+			
+
 			next();
 		} else {
 			// verifying the token and bind the result with request
