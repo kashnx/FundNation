@@ -9,7 +9,7 @@ const middlewares = [
 		origin: [
 			"http://localhost:3000",
 			"http://localhost:5000",
-			"https://mediaid-online-platform.netlify.app",
+			"https://fundnation-zeta.vercel.app",
 		],
 	}),
 	express.static("public"),
