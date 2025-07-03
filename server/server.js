@@ -10,6 +10,10 @@ const setRoutes = require("./routes/routes");
 setMiddlewares(app);
 setRoutes(app);
 
+app.get("/", (req, res) => {
+  res.send("API is running...");
+});
+
 // health check
 app.get("/api/health", (req, res) => {
 	res.status(200).json({ success: true, message: "Server is healthy" });
