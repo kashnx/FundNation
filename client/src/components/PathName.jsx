@@ -14,7 +14,7 @@ const PathName = (props) => {
 		.join(" ");
 
 	useEffect(() => {
-		document.title = `Fundnation ${pathname ? " | " + pathname : ""}`;
+		document.title = `CureConnect ${pathname ? " | " + pathname : ""}`;
 	}, [location]);
 
 	return <>{props.children}</>;

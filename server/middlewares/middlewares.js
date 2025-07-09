@@ -9,7 +9,7 @@ const middlewares = [
 		origin: [
 			"http://localhost:3000",
 			"http://localhost:5000",
-			"https://fundnation-zeta.vercel.app",
+			"https://cure-connect-zeta.vercel.appp",
 		],
 	}),
 	express.static("public"),
