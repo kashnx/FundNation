@@ -11,7 +11,7 @@ const aboutData = [
 		heading: "The primary purpose of our organization",
 		image: "/images/about/about-1.png",
 		description:
-			"At Fundnation, we believe that everyone should have access to the donations they need to live healthy, fulfilling lives. Unfortunately, many people around the world struggle to access essential medications due to a lack of resources or other barriers. That's why we've created this app - to connect those who have unused or unexpired donations with those who need them most. Our goal is to reduce waste, save lives, and empower individuals and communities to take control of their health. By using [App Name], you can make a tangible difference in someone's life - whether you're donating your unused medications.",
+			"At CureConnect, we believe that everyone should have access to the donations they need to live healthy, fulfilling lives. Unfortunately, many people around the world struggle to access essential medications due to a lack of resources or other barriers. That's why we've created this app - to connect those who have unused or unexpired donations with those who need them most. Our goal is to reduce waste, save lives, and empower individuals and communities to take control of their health. By using [App Name], you can make a tangible difference in someone's life - whether you're donating your unused medications.",
 	},
 	{
 		shortHeading: "OUR VISION",
