@@ -11,14 +11,14 @@ const aboutData = [
 		heading: "The primary purpose of our organization",
 		image: "/images/about/about-1.png",
 		description:
-			"At MediAid, we believe that everyone should have access to the donations they need to live healthy, fulfilling lives. Unfortunately, many people around the world struggle to access essential medications due to a lack of resources or other barriers. That's why we've created this app - to connect those who have unused or unexpired donations with those who need them most. Our goal is to reduce waste, save lives, and empower individuals and communities to take control of their health. By using [App Name], you can make a tangible difference in someone's life - whether you're donating your unused medications.",
+			"At Fundnation, we believe that everyone should have access to the donations they need to live healthy, fulfilling lives. Unfortunately, many people around the world struggle to access essential medications due to a lack of resources or other barriers. That's why we've created this app - to connect those who have unused or unexpired donations with those who need them most. Our goal is to reduce waste, save lives, and empower individuals and communities to take control of their health. By using [App Name], you can make a tangible difference in someone's life - whether you're donating your unused medications.",
 	},
 	{
 		shortHeading: "OUR VISION",
 		heading: "The plant for our desired future",
 		image: "/images/about/about-3.png",
 		description:
-			"At MediAid, our vision is a world where everyone has access to the donations they need to live healthy, fulfilling lives - regardless of their income, location, or other barriers. We envision a future where donation waste is minimized, and where individuals and communities have the resources and support they need to take charge of their health. We believe that access to donation is a fundamental human right, and that everyone deserves to have the opportunity to live a healthy, happy life. Through our app, we strive to create a community of individuals who are passionate about making a difference in the world.",
+			"At Fundnation, our vision is a world where everyone has access to the donations they need to live healthy, fulfilling lives - regardless of their income, location, or other barriers. We envision a future where donation waste is minimized, and where individuals and communities have the resources and support they need to take charge of their health. We believe that access to donation is a fundamental human right, and that everyone deserves to have the opportunity to live a healthy, happy life. Through our app, we strive to create a community of individuals who are passionate about making a difference in the world.",
 	},
 	{
 		shortHeading: "OUR PROMISE",
